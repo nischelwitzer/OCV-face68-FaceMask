@@ -1,6 +1,8 @@
 # OCV-face68-FaceMask
 OpenCV Face68 FaceMask and BB Detection
 
+<img src="./face_mask_1920.png" alt="Face Mask PNG" width="200">
+
 ## Check BB-Size (Bounding Box Size)
 Check for correct face size
 ```
