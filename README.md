@@ -1,5 +1,5 @@
 # OCV-face68-FaceMask
-OpenCV Face68 FaceMask and BB Detection
+OpenCV Face68 FaceMask and BB Detection. Calculation of the own BB can be found [here](./OCV-face68-Nose-Mouth-BB)
 
 
 
