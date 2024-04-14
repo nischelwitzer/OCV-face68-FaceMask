@@ -1,7 +1,6 @@
 # OCV-face68-FaceMask
-OpenCV Face68 FaceMask and BB Detection. Calculation of the own BB can be found [here](./OCV-face68-Nose-Mouth-BB)
-
-
+OpenCV Face68 FaceMask and BB Detection. 
+Calculation of the own BB (BoundingBox) can be directly found [here on github](../OCV-face68-Nose-Mouth-BB).
 
 ## Check BB-Size (Bounding Box Size)
 Check for correct face size
