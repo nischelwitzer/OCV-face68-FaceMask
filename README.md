@@ -1,4 +1,7 @@
-# OCV-face68-FaceMask
+# OCV-face68-FaceMask - PLACE/SIZE Detection
+
+With this code you can check if the face has the correct **size** inside the camera and is also **placed** correctly for best recognigion.
+
 OpenCV Face68 FaceMask and BB Detection. 
 Calculation of the own BB (BoundingBox) can be directly found [here on github](../../../OCV-face68-Nose-Mouth-BB).
 
