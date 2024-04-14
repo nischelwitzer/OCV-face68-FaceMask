@@ -1,7 +1,7 @@
 # OCV-face68-FaceMask
 OpenCV Face68 FaceMask and BB Detection
 
-<img src="./face_mask_1920.png" alt="Face Mask PNG" width="200">
+
 
 ## Check BB-Size (Bounding Box Size)
 Check for correct face size
@@ -25,6 +25,8 @@ bool okNose = false;
 if (((noseX - noseDeltaX) <= myNoseNDC.x) && (myNoseNDC.x <= (noseX + noseDeltaX)) &&
     ((noseY - noseDeltaY) <= myNoseNDC.y) && (myNoseNDC.y <= (noseY + noseDeltaY))) okNose = true;
 ```
+
+<img src="./face_mask_1920.png" alt="Face Mask PNG" width="400">
 
 ## Show Status
 
