@@ -13,9 +13,9 @@ OpenCV Face68 FaceMask and BB Detection.
 Calculation of the own BB (BoundingBox) can be directly found [here on github](../../../OCV-face68-Nose-Mouth-BB).
 
 Steps
-1 Code for NoseNDC & BBNDC in Face68Detector
-2 Daten in StaticStore speichern
-3 GameObject (im Canvas) 
+1. Code for NoseNDC & BBNDC in Face68Detector
+1. Daten in StaticStore speichern
+1. GameObject (im Canvas) 
   * Image als UI Element
   * GameObject mit Image
   * C# Code am Image
