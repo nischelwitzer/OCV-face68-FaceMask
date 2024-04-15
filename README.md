@@ -11,6 +11,7 @@ ColorCode:
  
 OpenCV Face68 FaceMask and BB Detection. 
 Calculation of the own BB (BoundingBox) can be directly found [here on github](../../../OCV-face68-Nose-Mouth-BB).
+The full Code for my StaticStore can be found [here on github](../../../OCV-face68-StaticStore/tree/main/scripts). 
 
 Steps
 1. Code for NoseNDC & BBNDC in Face68Detector
