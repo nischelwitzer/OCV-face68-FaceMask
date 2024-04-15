@@ -16,9 +16,9 @@ Steps
 1. Code for NoseNDC & BBNDC in Face68Detector
 1. Daten in StaticStore speichern
 1. GameObject (im Canvas) 
- - Image als UI Element
- - GameObject mit Image
- - C# Code am Image
+  - Image als UI Element
+  - GameObject mit Image
+  - C# Code am Image
 
 ## Check BB-Size (Bounding Box Size)
 Check for correct face size
