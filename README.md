@@ -23,6 +23,9 @@ Steps
    - GameObject mit ImageElement (UI)
    - C# Code am Image
 
+<img src="./unity_faceMask.png" alt="Unity FaceMask" width="600">
+
+
 ## Check BB-Size (Bounding Box Size)
 Check for correct face size
 ```
